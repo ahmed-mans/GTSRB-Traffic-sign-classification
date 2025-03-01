@@ -7,4 +7,5 @@ Tensorflow version : *2.17.1*
 
 # Code
 The CNN model can be found in the **get_model_from_scratch.py**  file
+
 The entire notebook can be found the **gtsrb_classification.ipynb** file
