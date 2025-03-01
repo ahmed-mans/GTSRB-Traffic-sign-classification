@@ -6,5 +6,5 @@ Python version : *3.10.12*
 Tensorflow version : *2.17.1*
 
 # Code
-The CNN model can be found in the ccc file
-The entire notebook can be found the ccc. file
+The CNN model can be found in the  file
+The entire notebook can be found the *gtsrb_classification.ipynb* file
