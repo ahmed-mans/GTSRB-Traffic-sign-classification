@@ -15,7 +15,7 @@ The CNN model can be found in the **get_model_from_scratch.py**  file.
 
 The entire notebook can be found the **gtsrb_classification.ipynb** file. This notebook is compatible with Kaggle only.
 
-
+# Test with new branch
 
 # Reference
 https://www.kaggle.com/code/yacharki/traffic-signs-image-classification-97-cnn
