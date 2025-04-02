@@ -19,8 +19,7 @@ The following image shows sample for some classes from the training set as well 
 For training the CNN model, the training set was split into a training and validation set using in a 80-20 ratio.
 ### Note:
 - One can see that class imabalance is present in the dataset. For instance, class 0 representing the traffic sign `20 km/h` has __210__ images compared to class 1 for traffic sign `30 km/h` having over __2000__ images.
-  
-The dataset can be downloaded [here](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign).
+- The dataset can be downloaded [here](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign).
 
 
 # CNN Model Architecture
