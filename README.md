@@ -11,13 +11,13 @@ Python version : *3.10.12*
 Tensorflow version : *2.17.1*
 
 ## Dataset Description
-The dataset consisted of __51 839__ images spread accross 43 traffic sign classes, for which 39 209 images are for Training set and 12 630 images are for the Test set. 
-The following image shows sample for some classes from the Training set as well as the respective number of images for each classes in brackets.
+The dataset consists of __51 839__ images spread accross __43__ traffic sign classes, for which 39 209 images are for training set and 12 630 images are for the test set. 
+The following image shows sample for some classes from the training set as well as the respective number of images for each classes in brackets.
 
 ![image](https://github.com/user-attachments/assets/3be5b7b1-6169-45fb-ba33-4367ae99e7e0)
 
 ### Note:
-- One can see that class imabalance is present in the dataset. For instance, class 0 representing the traffic sign '20 km/h' has 210 images, whereas class 1 for traffic sign '30 km/h' has over 2000 images.
+- One can see that class imabalance is present in the dataset. For instance, class 0 representing the traffic sign '20 km/h' has 210 images compared to class 1 for traffic sign '30 km/h' having over 2000 images.
   
 
 You can download the GTSRB dataset [here](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign).
