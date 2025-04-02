@@ -1,5 +1,8 @@
-# GTSRB Traffic sign classification - 94% Accuracy
-This project shows how to train a simple CNN model from scratch to classify traffic signs images using the GTSRB dataset with Tensorflow.
+# Traffic Sign Image classification - 94% Accuracy
+
+## Project Summary
+This project shows how to train a simple CNN model from scratch to classify traffic signs images into 43 different classes:
+{0:'20 km/h', 1:'30 km/h', 2:'50 km/h', ... , 42:' End of the overtaking restriction'}
 
 # Version
 Python version : *3.10.12*
