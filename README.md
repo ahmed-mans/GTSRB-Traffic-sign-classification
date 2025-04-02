@@ -4,7 +4,7 @@
 This project shows how to train a simple CNN model from scratch to classify traffic signs images into 43 different classes:<br>
 {0:'20 km/h', 1:'30 km/h', 2:'50 km/h', ... , 42:' End of the overtaking restriction'}
 
-The notebook 'gtsrb_classification.ipynb' was used to implement and train the CNN for the classification task.
+The notebook `gtsrb_classification.ipynb` was used to implement and train the CNN for the classification task.
 
 # Version
 Python version : *3.10.12*
@@ -17,7 +17,7 @@ The following image shows sample for some classes from the training set as well 
 ![image](https://github.com/user-attachments/assets/3be5b7b1-6169-45fb-ba33-4367ae99e7e0)
 
 ### Note:
-- One can see that class imabalance is present in the dataset. For instance, class 0 representing the traffic sign '20 km/h' has 210 images compared to class 1 for traffic sign '30 km/h' having over 2000 images.
+- One can see that class imabalance is present in the dataset. For instance, class 0 representing the traffic sign `20 km/h` has 210 images compared to class 1 for traffic sign `30 km/h` having over 2000 images.
   
 
 You can download the GTSRB dataset [here](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign).
