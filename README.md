@@ -24,7 +24,7 @@ The model architecture consists of two sets of two consecutive CNN layers with a
 These two sets are then followed by 4 fully connected layers ending a fifth layer outputing the softmax probabilities for each of the 43 classes of the dataset.
 The model implementation in python can be found in the `get_model_from_scratch.py` file.
 
-## Hyper Parameters
+## Training HyperParameters
 
 - Epochs: __20__
 - Optimizer: __Adam__
