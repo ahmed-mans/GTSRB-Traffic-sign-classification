@@ -36,7 +36,7 @@ The model implementation in python can be found in the `get_model_from_scratch.p
 - Batch size: __64__
 
 # Accuracy on Test Set
-The model, once trained with the configuration mentioned above, outputs an accuracy of 94% on the test set.
+The model, once trained with the configuration mentioned above, outputs an accuracy of __94%__ on the test set.
 ![image](https://github.com/user-attachments/assets/993e7d6b-b223-4a34-8ffb-53ad40758280)
 
 # Reference
