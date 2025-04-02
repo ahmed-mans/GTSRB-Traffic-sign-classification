@@ -2,7 +2,7 @@
 
 ## Project Summary
 This project shows how to train a simple CNN model from scratch to classify traffic signs images into 43 different classes:<br>
-{0:'20 km/h', 1:'30 km/h', 2:'50 km/h', ... , 42:' End of the overtaking restriction'}
+{0:`20 km/h`, 1:`30 km/h`, 2:`50 km/h`, ... , 42:`End of the overtaking restriction`}
 
 The notebook `gtsrb_classification.ipynb` was used to implement and train the CNN for the classification task.
 
