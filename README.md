@@ -16,7 +16,9 @@ The following image shows sample for some classes from the Training set as well 
 
 ![image](https://github.com/user-attachments/assets/3be5b7b1-6169-45fb-ba33-4367ae99e7e0)
 
-
+### Note:
+- One can see that class imabalance is present in the dataset. For instance, class 0 representing the traffic sign '20 km/h' has 210 images, whereas class 1 for traffic sign '30 km/h' has over 2000 images.
+  
 
 You can download the GTSRB dataset [here](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign).
 
