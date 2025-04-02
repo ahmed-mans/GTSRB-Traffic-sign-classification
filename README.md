@@ -30,10 +30,10 @@ The model implementation in python can be found in the `get_model_from_scratch.p
 
 # Hyper Parameters
 
-- Epochs: 20
-- Optimizer: Adam
-- Initial Learning Rate: 0.001
-- Batch size: 64
+- Epochs: __20__
+- Optimizer: __Adam__
+- Initial Learning Rate: __0.001__
+- Batch size: __64__
 
 # Accuracy on Test Set
 The model, once trained with the configuration mentioned above, outputs an accuracy of 94% on the test set.
