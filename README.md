@@ -16,8 +16,9 @@ The following image shows sample for some classes from the training set as well 
 
 ![image](https://github.com/user-attachments/assets/3be5b7b1-6169-45fb-ba33-4367ae99e7e0)
 
+For training the CNN model, the training set was split into a training and validation set using in a 80-20 ratio.
 ### Note:
-- One can see that class imabalance is present in the dataset. For instance, class 0 representing the traffic sign `20 km/h` has 210 images compared to class 1 for traffic sign `30 km/h` having over 2000 images.
+- One can see that class imabalance is present in the dataset. For instance, class 0 representing the traffic sign `20 km/h` has __210__ images compared to class 1 for traffic sign `30 km/h` having over __2000__ images.
   
 
 You can download the GTSRB dataset [here](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign).
