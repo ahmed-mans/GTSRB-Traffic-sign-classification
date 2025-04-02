@@ -36,7 +36,7 @@ The model, once trained with the configuration mentioned above, outputs an accur
 ![image](https://github.com/user-attachments/assets/993e7d6b-b223-4a34-8ffb-53ad40758280)
 
 ## Configuration
-Python version : __3.10.12__
+Python version : __3.10.12__<br>
 Tensorflow version : __2.17.1__
 
 ## Reference
