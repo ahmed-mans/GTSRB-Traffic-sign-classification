@@ -76,7 +76,7 @@ The following graphs illustrate the evolution of the model's **accuracy** and **
 ![traffic sign classification graphs](https://github.com/user-attachments/assets/c6401608-5424-45ce-ae7f-244dfaa9fe51)
 
 ## 📤 Inference on the test set
-The visualization below displays the inference results on a selection of 20 test set images. For each image, both the true label and the predicted class are shown to assess the model's performance on unseen data.
+The visualization below displays the inference results of the trained model on a selection of 20 test set images. For each image, both the true label and the predicted class are shown to assess the model's performance on unseen data.
 
 ![traffic sign classification inference test set](https://github.com/user-attachments/assets/b4fb7c94-c799-49f0-a488-d9631c6da2c5)
 
